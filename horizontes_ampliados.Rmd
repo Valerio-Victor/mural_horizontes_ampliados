@@ -1,0 +1,57 @@
+---
+title: "MURAL HORIZONTES AMPLIADOS"
+date: "`r format(Sys.Date(), '%d-%m-%Y')`"
+output:
+  rmdformats::material:
+    highlight: kate
+---
+
+
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+<div style="text-align: justify">
+
+# Perspectivas em Debate
+
+## A Roda Gira, Excelência
+
+No mural nosso mural de março, o artigo "A Roda Gira, Excelência" do autor 
+Professor Dagoberto Alves de Almeida reflete sobre a dualidade do conhecimento 
+como uma ferramenta poderosa, destacando a importância das questões éticas 
+relacionadas ao seu uso e argumentando que a ciência não é apolítica, citando 
+exemplos históricos como o negacionismo científico durante a pandemia e 
+perseguições a cientistas como Galileo Galilei. O autor critica a interferência 
+política na ciência, como o caso específico da intervenção do governo de Minas 
+Gerais na Fundação de Amparo à Ciência de Minas Gerais (Fapemig), defendendo a 
+necessidade de proteger a autonomia das instituições científicas e ressaltando 
+o papel fundamental da Fapemig no financiamento de pesquisas científicas em 
+Minas Gerais. Ele conclui enfatizando a importância da liberdade científica e 
+da manutenção de um estatuto que proteja a ciência de interferências políticas, 
+destacando que a verdade científica não deve ser subjugada a agendas políticas 
+temporárias.
+
+- Leia o Artigo na Íntegra: [**https://diariodopoder.com.br/opiniao/a-roda-gira-excelencia**](https://diariodopoder.com.br/opiniao/a-roda-gira-excelencia)
+
+**SOBRE O AUTOR:**
+
+- DAGOBERTO ALVES DE ALMEIDA
+
+  - Engenheiro Mecânico de Produção pela EFEI – 1982
+
+  - Mestre em Engenharia de Produção pela COPPE-UFRJ - 1986
+
+  - PhD in Manufacturing System Engineering – University of Cranfield – UK
+
+  - Professor Titular em Gestão da Produção 
+
+  - Reitor (eleito e indicado) da Universidade Federal de Itajubá (UNIFEI) nos mandatos 2013/16 e     2017/18
+
+  - ID Lattes: 6443290239075662
+
+
+# Mapeando Realidades
+
+# Arte e Contexto
