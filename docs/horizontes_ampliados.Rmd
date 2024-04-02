@@ -2,8 +2,9 @@
 title: "HORIZONTES AMPLIADOS"
 date: "`r format(Sys.Date(), '%d-%m-%Y')`"
 output:
-  rmdformats::material:
-    highlight: kate
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
 ---
 
 
